@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Yashpatange08/Yashpatange08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello There Myself Yash
+B.Tech Computer Science Student | ML Enthusiast | Web Developer
+chh.Sambhaji Nagar, Maharashtra, India 🇮🇳
 
-Here are some ideas to get you started:
+Passionate about building  web apps,Currently diving into real-world projects. When not coding, you'll find me Playing in Valorant or Watching Anime.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+ About Me -
+
+ 🎓 4th-year B.Tech in Computer Science, focusing on ML, databases, and full-stack development.
+  Full-Stack Web Apps – Developed responsive apps with Django backend, SQL databases, and HTML/CSS/JS frontends
+  Email: your.email@example.com
+  LinkedIn: linkedin.com/in/yashpatange
+
+<div align="center">
+⭐ Star my repos if they help you! 🚀
+</div>
