@@ -1,7 +1,7 @@
 <div align="center">
 
 Hello There Myself Yash
-B.Tech Computer Science Student | ML Enthusiast | Web Developer
+B.Tech Computer Science Student | ML(not critic) | Web Developer
 chh.Sambhaji Nagar, Maharashtra, India 🇮🇳
 
 Passionate about building  web apps,Currently diving into real-world projects. When not coding, you'll find me Playing in Valorant or Watching Anime.
