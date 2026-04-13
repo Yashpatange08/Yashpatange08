@@ -10,11 +10,11 @@ Passionate about building  web apps,Currently diving into real-world projects. W
 
  About Me -
 
- 🎓 4th-year B.Tech in Computer Science, focusing on ML, databases, and full-stack development.
+ 🎓 3rd-year B.Tech in Computer Science, focusing on ML, databases, and full-stack development.
   Full-Stack Web Apps – Developed responsive apps with Django backend, SQL databases, and HTML/CSS/JS frontends
   Email: yashpatange08.email@example.com
   LinkedIn: linkedin.com/in/yashpatange
 
 <div align="center">
-⭐ Star my repos if they help you! 🚀
+Star my repos if they help you! 
 </div>
