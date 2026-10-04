@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=80&lines=Hello+World!+I%27m+Yash;B.Tech+Computer+Science+Student;Full-Stack+Web+Developer;Machine+Learning+Enthusiast;Valorant+Player+%26+Anime+Fan" alt="Typing SVG" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/yashpatange">
+  <a href="https://www.linkedin.com/in/yashpatange08/">
     <img src="https://img.shields.io/badge/LinkedIn-Yash_Patange-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937" alt="LinkedIn" />
   </a>
   <a href="mailto:yashpatange08.email@example.com">
