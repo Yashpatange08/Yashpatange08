@@ -31,7 +31,7 @@
 ### **Core Languages & Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,django,mysql,git,github,vscode,py,cpp,bash,mongodb,mysql,opencv,postman,react,sklearn,tailwind,tensorflow,vite,linux" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,js,html,css,django,mysql,git,github,vscode,py,bash,mongodb,mysql,opencv,postman,react,sklearn,tailwind,tensorflow,vite,linux,ubantu,angular" alt="My Skills" />
   </a>
 </p>
 
