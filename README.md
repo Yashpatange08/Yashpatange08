@@ -52,39 +52,6 @@
   </table>
 </div>
 
----
-
-## 🎮 Interests & Side-Quests
-
-<details>
-<summary><b>🕹️ Gaming (Valorant Setup & Stats)</b></summary>
-<br>
-
-- **Agent Pool:** Duelist Main (Jett, Reyna) & Initiator (Sova)
-- **Role:** Entry Fragger / Support Initiator
-- **Gaming Rig & Sensitivity:**
-  - Mouse: Logitech G102 (DPI: 800, In-game Sens: 0.35, eDPI: 280)
-  - Keyboard: Mechanical (Red Switches)
-- **Goal:** Hitting Diamond/Ascendant in the next act! 🎯
-</details>
-
-<details>
-<summary><b>🍣 Anime Hub (Favorites & Current Watchlist)</b></summary>
-<br>
-
-- **Currently Watching:** 
-  - *Demon Slayer: Kimetsu no Yaiba*
-  - *Kaiju No. 8*
-  - *Wind Breaker*
-- **All-Time Favorites:**
-  - 🥇 *Attack on Titan (Shingeki no Kyojin)*
-  - 🥈 *Jujutsu Kaisen*
-  - 🥉 *Steins;Gate*
-- **Genres:** Shonen, Sci-Fi, Psychological Thriller
-</details>
-
----
-
 <div align="center">
 
 ⭐ **Star my repositories if they help you!** ⭐
